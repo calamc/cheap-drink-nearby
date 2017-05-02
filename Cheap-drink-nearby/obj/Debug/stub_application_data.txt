@@ -1,0 +1,2 @@
+android.app.Application
+Cheap_drink_nearby.Cheap_drink_nearby
